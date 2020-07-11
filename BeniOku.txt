@@ -1,0 +1,15 @@
+
+
+
+
+
+1) Öncelikle Dosya içerisindeki TreeSpawner.cs scriptini doğrudan Asset klasörü içine at.
+2) Daha sonra Editör dosyasını Asset klasörü içine at.
+3) TreeSpawner.cs scriptini zemin olarak kullandığın plane üzerine component olarak at.
+4) Obj yazan yere spawn etmek istediğin objeyi yükle.
+5) Componentin yüklü olduğu plane seç.
+6) Plane üzerinde tıkladığın yerde objen spawn olacak.
+
+
+
+Sorun çıkarsa bana instagram.com/yessglory adresinden ulaşabilirsiniz.
